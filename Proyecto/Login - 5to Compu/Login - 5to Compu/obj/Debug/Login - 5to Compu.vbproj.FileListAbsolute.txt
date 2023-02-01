@@ -1,0 +1,44 @@
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe.config
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.xml
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Form1.resources
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Resources.resources
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbproj.GenerateResource.Cache
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.xml
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Administrador.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe.config
+C:\Users\Alejandro\Desktop\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.exe
+C:\Users\Alejandro\Desktop\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.xml
+C:\Users\Alejandro\Desktop\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.pdb
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe.config
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login - 5to Compu.exe
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login - 5to Compu.xml
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login - 5to Compu.pdb
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\bin\Debug\Login - 5to Compu.pdb
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\bin\Debug\Login - 5to Compu.xml
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login___5to_Compu.Administrador.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login___5to_Compu.Cliente.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login___5to_Compu.Form1.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login___5to_Compu.Resources.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login___5to_Compu.Secretario.resources
+C:\Users\Alejandro\Desktop\Login - 5to Compu v2\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbproj.GenerateResource.Cache
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe.config
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.exe
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.xml
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.pdb
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.exe
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.pdb
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\bin\Debug\Login - 5to Compu.xml
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbprojResolveAssemblyReference.cache
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Administrador.resources
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Cliente.resources
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Form1.resources
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Resources.resources
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login___5to_Compu.Secretario.resources
+F:\Archivos\1ra Unidad\Login - 5to Compu\Login - 5to Compu\obj\Debug\Login - 5to Compu.vbproj.GenerateResource.Cache
